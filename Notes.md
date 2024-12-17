@@ -19,4 +19,8 @@ git status
 git add nombre del archivo nombre del archivo
 git add .
 ```
-	
+To commit:
+```
+git commit -m "Mensaje"
+
+```
