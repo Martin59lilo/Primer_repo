@@ -36,5 +36,6 @@ git commit
 ## Branches
 ```
 git branch
+git checkout
 git checkout -b nombre de rama
 ```
