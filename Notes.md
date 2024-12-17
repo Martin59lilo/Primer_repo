@@ -7,6 +7,7 @@ cd
 cd ..
 mkdir
 rm
+mv archivo destino
 ```
 Flujo de trabajo:
 - Computador
@@ -19,6 +20,9 @@ To stage:
 git status
 git add nombre del archivo nombre del archivo
 git add .
+git rm nombre del archivo
+git restore --staged nombre del archivo
+git restore
 ```
 To commit:
 ```
