@@ -18,6 +18,7 @@ Flujo de trabajo:
 To stage:
 ```
 git status
+
 git add nombre del archivo nombre del archivo
 git add .
 git rm nombre del archivo
