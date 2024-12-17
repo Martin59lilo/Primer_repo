@@ -6,6 +6,7 @@ ls -a
 cd
 cd ..
 mkdir
+rm
 ```
 Flujo de trabajo:
 - Computador
@@ -22,5 +23,5 @@ git add .
 To commit:
 ```
 git commit -m "Mensaje"
-
+git commit
 ```
