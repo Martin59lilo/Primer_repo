@@ -18,17 +18,25 @@ Flujo de trabajo:
 To stage:
 ```
 git status
-
+git status -s
 git add nombre del archivo nombre del archivo
 git add .
 git rm nombre del archivo
 git mv archivo destino
 git restore --staged nombre del archivo
 git restore
+git log
+git log --oneline
 ```
 To commit:
 ```
 git commit -m "Mensaje"
 git commit
 ```
-
+## Branches
+```
+git branch
+git checkout
+git checkout -b nombre de rama
+git merge
+```
