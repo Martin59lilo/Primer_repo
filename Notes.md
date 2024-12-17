@@ -38,5 +38,8 @@ git commit
 git branch
 git checkout
 git checkout -b nombre de rama
+<<<<<<< HEAD
 git merge
+=======
+>>>>>>> ramaB
 ```
